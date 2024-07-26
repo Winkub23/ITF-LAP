@@ -1,3 +1,3 @@
 # ITF2024
 
-HEllo i Judge 67070076
+Hello i Judge 67070076
